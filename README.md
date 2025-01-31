@@ -16,8 +16,8 @@
 Urban Scooter is a two-part system consisting of a Web App for users and a Mobile App for couriers. The Web App allows users to rent electric scooters and schedule deliveries. Users can select a scooter, specify a delivery location, and track its status. The Mobile App will enable couriers to pick up scooters from warehouses and deliver them to users. Couriers receive assigned deliveries, navigate to destinations, and confirm drop-offs.
 <p float="left">
   <kbd>
-<img src="/Screenshots/Urban_Scooter_Order_Tracking.png" alt=" Using the web app, users can track their orders" width=70% heigh=70% hspace="25">
-<img src="/Screenshots/Urban_Scooter_Login_Couriers.png" alt=" Using the mobile app, couriers can log in to their profile" width=19% heigh=19% hspace="25">
+<img src="/Screenshots/Urban_Scooter_Order_Tracking.png" alt=" Using the web app, users can track their orders" width=60% heigh=60% hspace="45">
+<img src="/Screenshots/Urban_Scooter_Login_Couriers.png" alt=" Using the mobile app, couriers can log in to their profile" width=16% heigh=16% hspace="45">
   </kbd>
 </p>
 
