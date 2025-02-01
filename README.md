@@ -21,12 +21,6 @@ Urban Scooter is a two-part system consisting of a Web App for users and a Mobil
   </kbd>
 </p>
 
-### Special Features
-- **Real-time Order Placement:** Users can rent scooters and schedule deliveries through the web app.
-- **Courier Assignment & Navigation:** Couriers receive optimized delivery routes in the mobile app.
-- **Live Tracking:** Users can track scooter deliveries while couriers update statuses in real time.
-- **Multi-platform Functionality:** Ensures seamless coordination between users and couriers.
-
 ## Tasks
 During this project, I conducted comprehensive Quality Assurance (QA) testing on both the **web and mobile** app, covering **API** functionality, **UI/UX** consistency, and **data validation**.
 
